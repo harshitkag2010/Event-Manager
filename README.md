@@ -1,0 +1,2 @@
+# Event-Manager
+Android project
